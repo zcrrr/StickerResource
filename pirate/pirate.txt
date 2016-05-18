@@ -1,0 +1,88 @@
+{
+"version": "1",
+"itemList": [
+{
+"type": "0",
+"x": "95",
+"y": "427",
+"width": "460",
+"height": "314",
+"resourceName": "box"
+},
+{
+"type": "1",
+"x": "321",
+"y": "502",
+"looping": "1",
+"width": "193",
+"height": "241",
+"resourceName": "star",
+"frames": "3"
+},
+{
+"type": "1",
+"x": "-189",
+"y": "410",
+"looping": "1",
+"width": "407",
+"height": "394",
+"resourceName": "hook",
+"frames": "3"
+},
+{
+"type": "3",
+"looping": "1",
+"leftIndex": "0",
+"rightIndex": "32",
+"scaleWidth": "285",
+"width": "238",
+"height": "170",
+"alignIndexList": [
+"32"
+],
+"alignIndexListMirror": [
+"0"
+],
+"alignX": "93",
+"alignY": "-255",
+"resourceName": "flag",
+"frames": "6"
+},
+{
+"type": "2",
+"looping": "1",
+"leftIndex": "0",
+"rightIndex": "32",
+"scaleWidth": "285",
+"width": "638",
+"height": "331",
+"alignIndexList": [
+"35","40"
+],
+"alignIndexListMirror": [
+"35","40"
+],
+"alignX": "0",
+"alignY": "-146",
+"resourceName": "piratehat"
+},
+{
+"type": "2",
+"looping": "1",
+"leftIndex": "0",
+"rightIndex": "32",
+"scaleWidth": "285",
+"width": "323",
+"height": "253",
+"alignIndexList": [
+"74"
+],
+"alignIndexListMirror": [
+"77"
+],
+"alignX": "84",
+"alignY": "-77",
+"resourceName": "eyeshield"
+}
+]
+}
