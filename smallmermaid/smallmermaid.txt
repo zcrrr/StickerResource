@@ -27,7 +27,7 @@
         "16"
       ],
       "width": "557",
-      "resourceName": "body",
+      "resourceName": "tale",
       "alignIndexListMirror": [
         "16"
       ],

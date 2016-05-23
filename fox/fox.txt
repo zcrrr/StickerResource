@@ -1,0 +1,24 @@
+{
+  "itemList": [
+    {
+      "scaleWidth": "198",
+      "frames": "30",
+      "looping": "1",
+      "rightIndex": "32",
+      "alignIndexList": [
+        "43"
+      ],
+      "resourceName": "fox",
+      "alignIndexListMirror": [
+        "43"
+      ],
+      "type": "3",
+      "leftIndex": "0",
+      "width": "501",
+      "alignX": "-22",
+      "alignY": "78",
+      "height": "573"
+    }
+  ],
+  "version": 1
+}
