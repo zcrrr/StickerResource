@@ -1,0 +1,43 @@
+{
+  "itemList": [
+    {
+      "scaleWidth": "285",
+      "frames": "15",
+      "looping": "1",
+      "rightIndex": "32",
+      "alignIndexList": [
+        "43"
+      ],
+      "resourceName": "hair",
+      "alignIndexListMirror": [
+        "43"
+      ],
+      "type": "3",
+      "leftIndex": "0",
+      "width": "375",
+      "alignX": "10",
+      "alignY": "-142",
+      "height": "251"
+    },
+    {
+      "scaleWidth": "285",
+      "frames": "9",
+      "looping": "1",
+      "rightIndex": "32",
+      "alignIndexList": [
+        "6"
+      ],
+      "resourceName": "body",
+      "alignIndexListMirror": [
+        "26"
+      ],
+      "type": "3",
+      "leftIndex": "0",
+      "width": "1327",
+      "alignX": "100",
+      "alignY": "530",
+      "height": "1889"
+    }
+  ],
+  "version": 1
+}
